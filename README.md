@@ -27,10 +27,10 @@
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
 
 ### While taking Image
-![Screenshot (103)](https://user-images.githubusercontent.com/26384517/86820502-c7f44500-c0a6-11ea-9530-6317ec2059d9.png)
+![Screenshot (103)](https://hackster.imgix.net/uploads/attachments/1032025/_IShyIG6IxS.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
 
 ## While taking Attendance
-![Screenshot (91)](https://user-images.githubusercontent.com/26384517/86821090-9465ea80-c0a7-11ea-9680-777923663d0c.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
 
 ## Attendance in tabular format 
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
